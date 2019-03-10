@@ -9,3 +9,8 @@ Logo após isso entre no modo root com o comando:
 ```sh
 sudo -i
 ```
+Agora execute o shellscript e antes do nome do arquivo colocar `./`. 
+
+```sh
+./limpeza_de_disco.sh
+```
